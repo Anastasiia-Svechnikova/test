@@ -23,4 +23,24 @@
   background-image: url("../images/logo.png");
   background-size: cover;
   background-position: center;
+}
+
+.green-text {
+  background-color: yellow;
+  font-size: 56px;
+}
+
+.red {
+  background-color: red;
+  font-size: 45px;
+}
+
+.nav-item {
+  color: orange;
+  font-size: 46px;
+  background-color: black;
+}
+
+.color {
+  background-color: aqua;
 }/*# sourceMappingURL=index.css.map */
